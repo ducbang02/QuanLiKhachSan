@@ -102,6 +102,7 @@
             this.label5.Text = "PHẦN MỀM QUẢN LÝ KHÁCH SẠN";
             // 
             // bunifuSeparator2
+            //
             // 
             this.bunifuSeparator2.BackColor = System.Drawing.Color.Transparent;
             this.bunifuSeparator2.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
