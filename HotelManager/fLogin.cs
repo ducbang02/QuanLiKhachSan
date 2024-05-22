@@ -58,9 +58,6 @@ namespace HotelManager
                 btnLogin_Click_1(sender, null);
         }
 
-        private void fLogin_Load(object sender, EventArgs e)
-        {
-
-        }
+      
     }
 }
