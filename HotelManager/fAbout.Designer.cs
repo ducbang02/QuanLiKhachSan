@@ -160,7 +160,7 @@
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(207, 20);
             this.label8.TabIndex = 75;
-            this.label8.Text = "Họ và tên: Lê Thị Thanh Hằng ";
+            this.label8.Text = "Nhóm 14";
             // 
             // label1
             // 
@@ -171,7 +171,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(179, 20);
             this.label1.TabIndex = 75;
-            this.label1.Text = "Mã sinh viên: 18K4081010";
+            this.label1.Text = "Mã lớp: SE104.O23";
             // 
             // label3
             // 
@@ -182,7 +182,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(211, 20);
             this.label3.TabIndex = 75;
-            this.label3.Text = "GVHD: TS. Nguyễn Thanh Tuấn";
+            this.label3.Text = "GV Lý thuyết: Cô Đỗ Thị Thanh Tuyền";
             // 
             // label4
             // 
@@ -193,7 +193,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(305, 20);
             this.label4.TabIndex = 75;
-            this.label4.Text = "Đồ án cuối kỳ môn Lập Trình trong ứng dụng";
+            this.label4.Text = "Đồ án cuối kỳ môn Nhập môn Công nghệ Phần mềm";
             // 
             // fAbout
             // 
